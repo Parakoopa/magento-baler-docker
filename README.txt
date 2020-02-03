@@ -1,4 +1,4 @@
 Baler by Magento:
 https://github.com/magento/baler/
 
-Based on Node 12 Alpine.
+Based on riptidepy/php:7.2 with Node 12 added.
